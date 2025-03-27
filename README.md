@@ -7,5 +7,5 @@ scientific publications, clinical studies, or machine learning model evaluation.
 
 ```r
 remotes::install_github("tiandongli/EasyPubROC")
-devtools::install_github("pwwang/EasyPubROC")
+devtools::install_github("tiandongli/EasyPubROC")
 ```
